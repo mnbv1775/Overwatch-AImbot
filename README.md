@@ -1,7 +1,5 @@
 # Overwatch-AImbot
 
-![altext](https://github.com/Will-J-Gale/Overwatch-AImbot/blob/master/Images/OverwatchAI_3.gif)
-
 Overwatch AImbot detecting enemies and firing at them
 
 ## Disclaimer
